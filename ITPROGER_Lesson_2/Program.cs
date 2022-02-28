@@ -16,7 +16,7 @@ namespace ITPROGER_Leson_1 {
             String word = "Переменная: "; //буквенное вырожение, строка
             // char simbol = 's' Тип данных для одного знака
 
-            bool isHeppy = false;         
+            //bool isHeppy = false;         
             // Буливый тип данных принимает два значение true/false
 
             number = Convert.ToInt32(Console.ReadLine());   
