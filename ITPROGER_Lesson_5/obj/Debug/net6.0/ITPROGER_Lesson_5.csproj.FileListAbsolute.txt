@@ -1,0 +1,15 @@
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\bin\Debug\net6.0\ITPROGER_Lesson_5.exe
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\bin\Debug\net6.0\ITPROGER_Lesson_5.deps.json
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\bin\Debug\net6.0\ITPROGER_Lesson_5.runtimeconfig.json
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\bin\Debug\net6.0\ITPROGER_Lesson_5.dll
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\bin\Debug\net6.0\ITPROGER_Lesson_5.pdb
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\ITPROGER_Lesson_5.csproj.AssemblyReference.cache
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\ITPROGER_Lesson_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\ITPROGER_Lesson_5.AssemblyInfoInputs.cache
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\ITPROGER_Lesson_5.AssemblyInfo.cs
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\ITPROGER_Lesson_5.csproj.CoreCompileInputs.cache
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\ITPROGER_Lesson_5.dll
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\refint\ITPROGER_Lesson_5.dll
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\ITPROGER_Lesson_5.pdb
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\ITPROGER_Lesson_5.genruntimeconfig.cache
+C:\Users\АСУ ТП\Desktop\C#\ITPROGER\ITPROGER_Lesson_5\obj\Debug\net6.0\ref\ITPROGER_Lesson_5.dll
