@@ -1,7 +1,7 @@
 using System;
 
 namespace ITPROGER_Lesson_9{
-    class Robot{
+    abstract class Robot : IRun, IJump{
 
         private static int count;
 
@@ -18,11 +18,18 @@ namespace ITPROGER_Lesson_9{
          private set{}
          }
 
+           public byte[] Coordinates {
+            get{
+                return coordinates;
+            }
+         private set{}
+         }
+
         protected string surname;
 
         public int Wedth{
             get{
-                System.Console.Write("Результат: ");
+                //System.Console.Write("Результат: ");
                 return this.wedth;
             }
             set{
@@ -34,6 +41,9 @@ namespace ITPROGER_Lesson_9{
                    this.wedth = value;   
             }
         }
+
+        public float speed {get; set;}
+        public float y {get; set;}
 
         public Robot(string name, int wedth, byte[] coordinates){
             System.Console.WriteLine("Object has been created");
@@ -57,15 +67,28 @@ namespace ITPROGER_Lesson_9{
             this.coordinates = coordinates;
         }
 
-        public void prinValues(){
-            System.Console.WriteLine(this.name +" wedth: " + this.wedth + ". Coordinates");
-            foreach(byte el in this.coordinates)
-            System.Console.WriteLine(el);
+        public void setValues(string name){
+            this.name = name;
         }
+
+        public void setValues(string name, int wedth){
+            this.name = name;
+            this.wedth = wedth;
+        }
+
+        public abstract void prinValues();
+    
 
         public static void Print(){
             System.Console.WriteLine("Count is: " + count);
         }
 
+        public void RobotRun(){
+            Console.WriteLine("Robot is now running");
+        }
+
+        public void Jump(){
+             Console.WriteLine("Robot is jumping");
+        }
     }
 }
